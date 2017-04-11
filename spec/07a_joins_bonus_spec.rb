@@ -45,8 +45,8 @@ describe "music JOINs" do
         ["Bing! His Legendary Years, 1931 to 1957 [BOX SET]", "5"],
         ["The Greatest Hits", "4"],
         ["Forty Years-Artistry of Tony B", "3"],
-        ["...Baby One More Time [ENHANCED CD]", "2"],
         ["50 Worldwide Gold HitsVolume 1, Parts 1 & 2", "2"],
+        ["...Baby One More Time [ENHANCED CD]", "2"],
         ["BasherThe Best of Nick Lowe", "2"],
         ["San Francisco Days", "2"],
         ["Sgt. Pepper's Lonely Hearts Club Band", "2"],
@@ -186,8 +186,8 @@ describe "music JOINs" do
         ["Styles > Classical > Historical Periods > Romantic (c.1820-1910) > Forms & Genres > Theatrical, Inci", "2.3557142857142857"],
         ["Styles > Classical > Forms & Genres > Theatrical, Incidental & Program Music > Incidental Music", "2.3557142857142857"],
         ["Styles > Classical > Historical Periods > Romantic (c.1820-1910) > Ballets & Dances", "2.3557142857142857"],
-        ["Styles > Classical > Symphonies > General", "1.8980000000000000"],
-        ["Styles > Classical > Forms & Genres > Symphonies > Romantic", "1.8980000000000000"]
+        ["Styles > Classical > Symphonies > General", "1.9266071428571429"],
+        ["Styles > Classical > Forms & Genres > Symphonies > Romantic", "1.9266071428571429"]
       ])
     end
   end
